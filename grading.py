@@ -27,7 +27,7 @@ else:
     elif avg_mark>=33and avg_mark<=39:    
         print("You got D")
     else:
-        print("Failed")    
+        print("Invalid  input")    
 
     
 
